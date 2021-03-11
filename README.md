@@ -10,7 +10,7 @@ To install and run this project just type and execute in folder DatingApp-SPA
 ```bash
 npm install
 ```
-after if you want to run SPA project
+After if you want to run SPA project
 ```bash
 ng serve -o
 ```
@@ -26,4 +26,4 @@ Screenshot about my project
 ![](/preview3.png)
 
 ### Notes
-If you want to learn all about angular and asp core i recommend you visit the site [asp core and angular](https://www.udemy.com/course/build-an-app-with-aspnet-core-and-angular-from-scratch)
+If you want to learn all about angular and asp core I recommend you visit the site [asp core and angular](https://www.udemy.com/course/build-an-app-with-aspnet-core-and-angular-from-scratch)
